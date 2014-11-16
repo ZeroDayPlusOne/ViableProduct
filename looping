@@ -1,0 +1,5 @@
+#loop
+
+iso3.each do |code, name|
+puts "the code for #{name} is #{code}"
+end
